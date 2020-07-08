@@ -2,4 +2,4 @@
 
 Portal based 3D game, made with Unity.  
 
-[Download on Windows](https://github.com/FlorianVaneste/Portal3D/archive/master.zip)
+[Download on Windows](https://github.com/FloVnst/Portal3D/archive/master.zip)
