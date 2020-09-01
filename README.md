@@ -16,6 +16,6 @@ Like in the Portal Valve versions, the player is locked up in a room. He has to 
 
 Here are some screenshots of the game:
 
-![](screenshots/0.png)
-![](screenshots/1.png)
 ![](screenshots/2.png)
+![](screenshots/1.png)
+![](screenshots/0.png)
