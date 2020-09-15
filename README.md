@@ -1,4 +1,4 @@
-# Project Portal  
+![Project Portal](logo.png)
 
 Portal based 3D game, made with Unity.  
 
