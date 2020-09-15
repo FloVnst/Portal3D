@@ -1,4 +1,4 @@
-![Project Portal](logo.png)
+<img id="logo_header" alt="Project Portal" src="logo.png" width="250px">
 
 Portal based 3D game, made with Unity.  
 
