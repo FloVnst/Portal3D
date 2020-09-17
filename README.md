@@ -2,9 +2,11 @@
 
 Portal based 3D game, made with Unity.  
 
-[Download on Windows](http://bit.ly/projectportal-1-windows)
+The game is available on Windows, Mac OS X and Linux.  
 
-_Once the game is downloaded, simply launch the "Project Portal.exe" file._  
+[Download on Windows](http://bit.ly/ProjectPortal-Windows)  
+[Download on Mac OS X](http://bit.ly/ProjectPortal-MacOSX)  
+[Download on Linux](http://bit.ly/ProjectPortal-Linux)  
 
 ---
 
