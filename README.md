@@ -1,6 +1,6 @@
 <img id="logo_header" alt="Project Portal" src="logo.png" width="250px">
 
-Portal based 3D game, made with Unity.  
+Portal based 3D game, made with Unity  
 
 The game is available on Windows, Mac OS X and Linux.  
 
